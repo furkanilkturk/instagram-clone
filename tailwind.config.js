@@ -14,6 +14,7 @@ export default {
         "ig-secondary-text": "#737373",
         "ig-primary-button": "#0095f6",
         "ig-facebook-link": "#00376b",
+        "ig-separator": "#262626",
       },
       backgroundImage: {
         phone: "url('/home-phones.png')",
